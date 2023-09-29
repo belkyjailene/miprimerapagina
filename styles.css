@@ -172,6 +172,9 @@ main{clear: both;
     font-size: 25px;
     margin: 0px 0px 0px 0px;}
 
+    .main greetind{ background-color: #42303e;
+            border: #4dc247;}
+
     /*
     @media (max-width: 768px) {
         /* Aquí puedes escribir los estilos que se aplicarán en pantallas más
